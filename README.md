@@ -1,6 +1,6 @@
 # 477_hw3
 
-This is a simple login that mimics the login page that checks the fields to ensure that the are valid credentials.
+This is a simple login page that checks the fields to ensure that the are valid credentials.
 
 What is checked in the HTML file (client side):
 Both fields are not empty
