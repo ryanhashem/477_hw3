@@ -1,4 +1,4 @@
-# 477_hw3
+# Login Page
 
 This is a simple login page that checks the fields to ensure both the email and password are valid.
 
