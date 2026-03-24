@@ -7,5 +7,5 @@ function checkFields() {
     return;
   }
 
-  alert("You are now logged in.");
+  document.getElementById("output").innerText = "logged in as " + email;
 }
