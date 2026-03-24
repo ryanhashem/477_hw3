@@ -1,6 +1,6 @@
 # 477_hw3
 
-This is a simple login page that checks the fields to ensures both the email and password are valid.
+This is a simple login page that checks the fields to ensure both the email and password are valid.
 
 What is checked in the HTML file (client side):
 Both fields are not empty
